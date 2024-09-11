@@ -34,7 +34,6 @@ def main():
     st.markdown(
         f"""
         <div class="st-emotion-cache-18ni7ap ezrtsby2">
-            <a href="{imgUrl}">
                 <img class="profileImage" src="{imgUrl}" alt="Your Photo">
             </a>
             <div class="textContainer">
